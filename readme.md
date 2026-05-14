@@ -3,10 +3,10 @@
 A desktop application built with Python that lets players find hidden differences between two images.
 
 ## Team Members
-- Member 1: Bibek kumar Chaudhary (S395751)
-- Member 2: Name (Student ID)
-- Member 3: Name (Student ID)
-- Member 4: Name (Student ID)
+- Member 1: Bibek Kumar Chaudhary (S395751)
+- Member 2: Saugat Neupane (S400474)
+- Member 3: Abishek Jaisi (S401769)
+- Member 4: Yujan Bhattarai (S401746)
 
 ## How to Install
 
